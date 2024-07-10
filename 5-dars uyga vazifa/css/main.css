@@ -1,0 +1,111 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: tomato;
+}
+
+.h {
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    margin-bottom: 100px;
+   
+}
+
+.container {
+    width: 1500px;
+
+
+    margin: 0px auto;
+}
+
+.fox1 {
+    width: 400px;
+    height: 400px;
+    background-color: white;
+    display: inline-block;
+}
+
+.fox2 {
+    width: 400px;
+    height: 440px;
+    background-color: white;
+    display: inline-block;
+    margin: 0px 50px;
+    margin-top: 100px;
+
+
+
+
+}
+
+.fox3 {
+    width: 400px;
+    height: 490px;
+    background-color: white;
+    display: inline-block;
+}
+
+.textlar {
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.textlar2 {
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+
+    text-align: center;
+}
+
+.textlar3 {
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+
+    text-align: center;
+    margin-top: 40px;
+}
+
+.p2 {
+    margin-top: 30px;
+    font-weight: 700;
+    margin-bottom: -20px;
+}
+
+.p {
+    color: red;
+    margin-top: 60px;
+}
+
+.p3 {
+    margin-top: 30px;
+    font-weight: 700;
+}
+
+.l {
+    color: red;
+    margin-top: 50px;
+}
+
+.p4 {
+    margin-top: 30px;
+    font-weight: 700;
+}
+
+.j {
+    color: red;
+    margin-top: 50px;
+}
